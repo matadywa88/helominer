@@ -1,1 +1,1 @@
-./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool eu.luckpool.net:3956 --wallet RHy1KsCCtkDu9VbRgJmmWwsvX8vQz7Q7zf.jono --password x
+./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool ap.luckpool.net:3957 --wallet RXMf3LJNWsFQgb27kFPETVNdu2YEgmtDyy.awnex6 --password x
