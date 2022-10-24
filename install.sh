@@ -14,5 +14,6 @@ sudo systemctl enable cron.service
 update-rc.d cron defaults
 sudo chmod +x helominer
 sudo chmod +x jono.sh
+sudo chmod +x dotasks.sh
 sudo chmod +x verus-solver
 screen -d -m bash -c "cd helominer ; ./jono.sh" &
